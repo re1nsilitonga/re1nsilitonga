@@ -26,7 +26,7 @@
 <rect x="0" y="38" width="230" height="424" fill="url(#cardBg)"/>
 <rect x="0" y="38" width="230" height="424" fill="url(#cardAccent)"/>
 <!-- ▼▼▼  REPLACE href WITH YOUR CARD IMAGE PATH  ▼▼▼ -->
-<image href="card-placeholder.png"
+<image href="card.png"
        x="10" y="46"
        width="210" height="408"
        preserveAspectRatio="xMidYMid meet"
