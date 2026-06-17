@@ -1,0 +1,166 @@
+<svg width="960" height="462" viewBox="0 0 960 462" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="cardBg" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%"   stop-color="#1e1b4b"/>
+  <stop offset="100%" stop-color="#0a0820"/>
+</linearGradient>
+<linearGradient id="cardAccent" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%"   stop-color="#ef4444" stop-opacity="0.85"/>
+  <stop offset="60%"  stop-color="#b91c1c" stop-opacity="0.55"/>
+  <stop offset="100%" stop-color="#7f1d1d" stop-opacity="0.2"/>
+</linearGradient>
+<clipPath id="cardClip">
+  <rect x="10" y="46" width="210" height="408" rx="10"/>
+</clipPath>
+</defs>
+<rect width="960" height="500" fill="#0d1117"/>
+<rect x="0" y="0" width="960" height="38" fill="#10151e"/>
+<line x1="0" y1="38" x2="960" y2="38" stroke="#21262d" stroke-width="1"/>
+<text x="113" y="24" text-anchor="middle" fill="#6e7681" font-size="11" font-weight="normal" font-family="Arial,Helvetica,sans-serif">Player Bio</text>
+<text x="259" y="24" text-anchor="middle" fill="#6e7681" font-size="11" font-weight="normal" font-family="Arial,Helvetica,sans-serif">Player Details</text>
+<text x="405" y="24" text-anchor="middle" fill="#ffffff" font-size="11" font-weight="bold" font-family="Arial,Helvetica,sans-serif">Attribute Details</text>
+<rect x="332" y="35" width="146" height="3" fill="#4ade80" rx="1.5"/>
+<text x="551" y="24" text-anchor="middle" fill="#6e7681" font-size="11" font-weight="normal" font-family="Arial,Helvetica,sans-serif">Hero Profile</text>
+<text x="697" y="24" text-anchor="middle" fill="#6e7681" font-size="11" font-weight="normal" font-family="Arial,Helvetica,sans-serif">PlayStyles</text>
+<text x="843" y="24" text-anchor="middle" fill="#6e7681" font-size="11" font-weight="normal" font-family="Arial,Helvetica,sans-serif">Roles</text>
+<rect x="0" y="38" width="230" height="424" fill="url(#cardBg)"/>
+<rect x="0" y="38" width="230" height="424" fill="url(#cardAccent)"/>
+<!-- ▼▼▼  REPLACE href WITH YOUR CARD IMAGE PATH  ▼▼▼ -->
+<image href="card-placeholder.png"
+       x="10" y="46"
+       width="210" height="408"
+       preserveAspectRatio="xMidYMid meet"
+       clip-path="url(#cardClip)"/>
+<!-- ▲▲▲  REPLACE href WITH YOUR CARD IMAGE PATH  ▲▲▲ -->
+<rect x="10" y="46" width="210" height="408" rx="10" fill="none" stroke="#ffffff" stroke-width="0.5" stroke-dasharray="6 4" opacity="0.2"/>
+<text x="115" y="244" text-anchor="middle" fill="#ffffff" font-size="10" font-family="Arial,Helvetica,sans-serif" opacity="0.25">[ Insert Card Image ]</text>
+<line x1="230" y1="38" x2="230" y2="462" stroke="#21262d" stroke-width="1"/>
+<text x="595" y="63" text-anchor="middle" fill="white" font-size="14" font-weight="bold" font-family="Arial,Helvetica,sans-serif">Attribute Details</text>
+<line x1="230" y1="74" x2="960" y2="74" stroke="#21262d" stroke-width="1"/>
+<text x="290" y="91" text-anchor="middle" fill="#6e7681" font-size="10" letter-spacing="1.2" font-family="Arial,Helvetica,sans-serif">COMMITS</text>
+<circle cx="290" cy="133" r="28" fill="none" stroke="#21262d" stroke-width="5"/>
+<circle cx="290" cy="133" r="28" fill="none" stroke="#facc15" stroke-width="5" stroke-linecap="round" stroke-dasharray="127.9 175.9" transform="rotate(-90 290 133)"/>
+<text x="290" y="139" text-anchor="middle" fill="white" font-size="13" font-weight="bold" font-family="Arial,Helvetica,sans-serif">72</text>
+<text x="243" y="183" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Last Year</text>
+<text x="338" y="183" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">251</text>
+<rect x="243" y="186" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="243" y="186" width="59" height="3" rx="1.5" fill="#fb923c"/>
+<text x="243" y="220" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Total Contrib</text>
+<text x="338" y="220" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">782</text>
+<rect x="243" y="223" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="243" y="223" width="37" height="3" rx="1.5" fill="#fb923c"/>
+<text x="243" y="257" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Since</text>
+<text x="338" y="257" text-anchor="end" fill="#8b949e" font-size="9" font-family="Arial,Helvetica,sans-serif">Aug 2024</text>
+<text x="243" y="294" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Active Repos</text>
+<text x="338" y="294" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">7</text>
+<rect x="243" y="297" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="243" y="297" width="33" height="3" rx="1.5" fill="#fb923c"/>
+<text x="243" y="331" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Current Streak</text>
+<text x="338" y="331" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">1</text>
+<rect x="243" y="334" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="243" y="334" width="3" height="3" rx="1.5" fill="#fb923c"/>
+<line x1="351" y1="74" x2="351" y2="462" stroke="#21262d" stroke-width="0.5" opacity="0.5"/>
+<text x="412" y="91" text-anchor="middle" fill="#6e7681" font-size="10" letter-spacing="1.2" font-family="Arial,Helvetica,sans-serif">PULL REQ</text>
+<circle cx="412" cy="133" r="28" fill="none" stroke="#21262d" stroke-width="5"/>
+<circle cx="412" cy="133" r="28" fill="none" stroke="#fb923c" stroke-width="5" stroke-linecap="round" stroke-dasharray="87.1 175.9" transform="rotate(-90 412 133)"/>
+<text x="412" y="139" text-anchor="middle" fill="white" font-size="13" font-weight="bold" font-family="Arial,Helvetica,sans-serif">49</text>
+<text x="365" y="183" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Total PRs</text>
+<text x="460" y="183" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">24</text>
+<rect x="365" y="186" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="365" y="186" width="22" height="3" rx="1.5" fill="#fb923c"/>
+<text x="365" y="220" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Merged (est)</text>
+<text x="460" y="220" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">20</text>
+<rect x="365" y="223" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="365" y="223" width="19" height="3" rx="1.5" fill="#fb923c"/>
+<text x="365" y="257" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Repos Contrib</text>
+<text x="460" y="257" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">7</text>
+<rect x="365" y="260" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="365" y="260" width="33" height="3" rx="1.5" fill="#fb923c"/>
+<text x="365" y="294" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Avg PR/Mo</text>
+<text x="460" y="294" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">2</text>
+<rect x="365" y="297" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="365" y="297" width="19" height="3" rx="1.5" fill="#fb923c"/>
+<text x="365" y="331" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Issues</text>
+<text x="460" y="331" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">0</text>
+<rect x="365" y="334" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="365" y="334" width="0" height="3" rx="1.5" fill="#fb923c"/>
+<line x1="473" y1="74" x2="473" y2="462" stroke="#21262d" stroke-width="0.5" opacity="0.5"/>
+<text x="534" y="91" text-anchor="middle" fill="#6e7681" font-size="10" letter-spacing="1.2" font-family="Arial,Helvetica,sans-serif">CONTRIB</text>
+<circle cx="534" cy="133" r="28" fill="none" stroke="#21262d" stroke-width="5"/>
+<circle cx="534" cy="133" r="28" fill="none" stroke="#86efac" stroke-width="5" stroke-linecap="round" stroke-dasharray="138.6 175.9" transform="rotate(-90 534 133)"/>
+<text x="534" y="139" text-anchor="middle" fill="white" font-size="13" font-weight="bold" font-family="Arial,Helvetica,sans-serif">78</text>
+<text x="487" y="183" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Total</text>
+<text x="582" y="183" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">782</text>
+<rect x="487" y="186" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="487" y="186" width="37" height="3" rx="1.5" fill="#fb923c"/>
+<text x="487" y="220" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Last Year</text>
+<text x="582" y="220" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">251</text>
+<rect x="487" y="223" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="487" y="223" width="59" height="3" rx="1.5" fill="#fb923c"/>
+<text x="487" y="257" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Best Month</text>
+<text x="582" y="257" text-anchor="end" fill="#8b949e" font-size="9" font-family="Arial,Helvetica,sans-serif">~40</text>
+<text x="487" y="294" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Contributed</text>
+<text x="582" y="294" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">7</text>
+<rect x="487" y="297" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="487" y="297" width="33" height="3" rx="1.5" fill="#fb923c"/>
+<text x="487" y="331" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Stars Earned</text>
+<text x="582" y="331" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">1</text>
+<rect x="487" y="334" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="487" y="334" width="1" height="3" rx="1.5" fill="#fb923c"/>
+<line x1="595" y1="74" x2="595" y2="462" stroke="#21262d" stroke-width="0.5" opacity="0.5"/>
+<text x="655" y="91" text-anchor="middle" fill="#6e7681" font-size="10" letter-spacing="1.2" font-family="Arial,Helvetica,sans-serif">STREAK</text>
+<circle cx="655" cy="133" r="28" fill="none" stroke="#21262d" stroke-width="5"/>
+<circle cx="655" cy="133" r="28" fill="none" stroke="#fb923c" stroke-width="5" stroke-linecap="round" stroke-dasharray="71.1 175.9" transform="rotate(-90 655 133)"/>
+<text x="655" y="139" text-anchor="middle" fill="white" font-size="13" font-weight="bold" font-family="Arial,Helvetica,sans-serif">40</text>
+<text x="608" y="183" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Current</text>
+<text x="703" y="183" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">1</text>
+<rect x="608" y="186" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="608" y="186" width="3" height="3" rx="1.5" fill="#fb923c"/>
+<text x="608" y="220" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Best</text>
+<text x="703" y="220" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">12</text>
+<rect x="608" y="223" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="608" y="223" width="38" height="3" rx="1.5" fill="#fb923c"/>
+<text x="608" y="257" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Period</text>
+<text x="703" y="257" text-anchor="end" fill="#8b949e" font-size="9" font-family="Arial,Helvetica,sans-serif">May 22–Jun 2</text>
+<text x="608" y="294" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Active Days</text>
+<text x="703" y="294" text-anchor="end" fill="#8b949e" font-size="9" font-family="Arial,Helvetica,sans-serif">782+</text>
+<text x="608" y="331" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Since</text>
+<text x="703" y="331" text-anchor="end" fill="#8b949e" font-size="9" font-family="Arial,Helvetica,sans-serif">Aug 2024</text>
+<line x1="716" y1="74" x2="716" y2="462" stroke="#21262d" stroke-width="0.5" opacity="0.5"/>
+<text x="777" y="91" text-anchor="middle" fill="#6e7681" font-size="10" letter-spacing="1.2" font-family="Arial,Helvetica,sans-serif">STACK</text>
+<circle cx="777" cy="133" r="28" fill="none" stroke="#21262d" stroke-width="5"/>
+<circle cx="777" cy="133" r="28" fill="none" stroke="#86efac" stroke-width="5" stroke-linecap="round" stroke-dasharray="145.7 175.9" transform="rotate(-90 777 133)"/>
+<text x="777" y="139" text-anchor="middle" fill="white" font-size="13" font-weight="bold" font-family="Arial,Helvetica,sans-serif">82</text>
+<text x="730" y="183" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Jupyter NB</text>
+<text x="825" y="183" text-anchor="end" fill="#8b949e" font-size="9" font-family="Arial,Helvetica,sans-serif">30%</text>
+<text x="730" y="220" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">C</text>
+<text x="825" y="220" text-anchor="end" fill="#8b949e" font-size="9" font-family="Arial,Helvetica,sans-serif">27%</text>
+<text x="730" y="257" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Java</text>
+<text x="825" y="257" text-anchor="end" fill="#8b949e" font-size="9" font-family="Arial,Helvetica,sans-serif">17%</text>
+<text x="730" y="294" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">TypeScript</text>
+<text x="825" y="294" text-anchor="end" fill="#8b949e" font-size="9" font-family="Arial,Helvetica,sans-serif">12%</text>
+<text x="730" y="331" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Python + more</text>
+<text x="825" y="331" text-anchor="end" fill="#8b949e" font-size="9" font-family="Arial,Helvetica,sans-serif">9%+</text>
+<line x1="838" y1="74" x2="838" y2="462" stroke="#21262d" stroke-width="0.5" opacity="0.5"/>
+<text x="899" y="91" text-anchor="middle" fill="#6e7681" font-size="10" letter-spacing="1.2" font-family="Arial,Helvetica,sans-serif">QUALITY</text>
+<circle cx="899" cy="133" r="28" fill="none" stroke="#21262d" stroke-width="5"/>
+<circle cx="899" cy="133" r="28" fill="none" stroke="#4ade80" stroke-width="5" stroke-linecap="round" stroke-dasharray="168.8 175.9" transform="rotate(-90 899 133)"/>
+<text x="899" y="139" text-anchor="middle" fill="white" font-size="13" font-weight="bold" font-family="Arial,Helvetica,sans-serif">95</text>
+<text x="852" y="183" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Total Issues</text>
+<text x="947" y="183" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">0</text>
+<rect x="852" y="186" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="852" y="186" width="0" height="3" rx="1.5" fill="#fb923c"/>
+<text x="852" y="220" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Open Issues</text>
+<text x="947" y="220" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">0</text>
+<rect x="852" y="223" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="852" y="223" width="0" height="3" rx="1.5" fill="#fb923c"/>
+<text x="852" y="257" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Closed Issues</text>
+<text x="947" y="257" text-anchor="end" fill="#fb923c" font-size="9" font-weight="bold" font-family="Arial,Helvetica,sans-serif">0</text>
+<rect x="852" y="260" width="95" height="3" rx="1.5" fill="#21262d"/>
+<rect x="852" y="260" width="0" height="3" rx="1.5" fill="#fb923c"/>
+<text x="852" y="294" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Bug Rate</text>
+<text x="947" y="294" text-anchor="end" fill="#8b949e" font-size="9" font-family="Arial,Helvetica,sans-serif">Low</text>
+<text x="852" y="331" fill="#6e7681" font-size="9" font-family="Arial,Helvetica,sans-serif">Code Grade</text>
+<text x="947" y="331" text-anchor="end" fill="#8b949e" font-size="9" font-family="Arial,Helvetica,sans-serif">C+</text>
+
+</svg>
