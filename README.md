@@ -22,7 +22,7 @@
 <table align="center" cellpadding="12" bgcolor="#1a2035">
   <tr>
     <td valign="middle" align="center" width="220" bgcolor="#1a2035">
-      <img src="card-placeholder.svg" width="196"/>
+      <img src="card.png" width="196"/>
     </td>
     <td valign="top" align="center" bgcolor="#1a2035">
       <img src="https://github-readme-stats.vercel.app/api?username=re1nsilitonga&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
