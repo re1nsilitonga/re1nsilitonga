@@ -20,7 +20,7 @@
 ## My Stats
 
 <div align="center">
-  <img src="stats-card.svg" alt="Reinsen's GitHub Stats" width="960"/>
+  <img src="stats-card(2).svg" alt="Reinsen's GitHub Stats" width="960"/>
 </div>
 
 ## Let's Connect
